@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: bbf10cb756d53a649b40799a0ecdd88b
+timeCreated: 1512421933
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas_0
+    21300002: Atlas_1
+    21300004: Atlas_2
+    21300006: Atlas_3
+    21300008: Atlas_5
+    21300010: Atlas_7
+    21300012: Atlas_8
+    21300014: Atlas_9
+    21300016: Atlas_10
+    21300018: Atlas_13
+    21300020: Atlas_14
+    21300022: Atlas_15
+    21300024: Atlas_16
+    21300026: Atlas_17
+    21300028: Atlas_18
+    21300030: Atlas_19
+    21300032: Atlas_20
+    21300034: Atlas_25
+    21300036: Atlas_26
+    21300038: Atlas_29
+    21300040: Atlas_30
+    21300042: Atlas_36
+    21300044: Atlas_37
+    21300046: Atlas_38
+    21300048: Atlas_39
+    21300050: Atlas_40
+    21300052: Atlas_21
+    21300054: Atlas_4
+    21300056: Atlas_6
+    21300058: Atlas_11
+    21300060: Atlas_12
+    21300062: Atlas_22
+    21300064: Atlas_23
+    21300066: Atlas_24
+    21300068: Atlas_27
+    21300070: Atlas_28
+    21300072: Atlas_31
+    21300074: Atlas_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 16}
+        - {x: -20, y: -14}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 20, y: -14}
+        - {x: 20, y: 14}
+        - {x: 18, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1015
+        width: 123
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 4.5}
+        - {x: -61.5, y: 2.5}
+        - {x: -61.5, y: -4.5}
+        - {x: 25.5, y: -4.5}
+        - {x: 25.5, y: 4.5}
+      - - {x: 25.5, y: 4.5}
+        - {x: 25.5, y: -4.5}
+        - {x: 61.5, y: -4.5}
+        - {x: 61.5, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 800
+        width: 525
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.69681, y: 79.62305}
+        - {x: 85.333496, y: 112}
+        - {x: -76.700745, y: 111.94647}
+        - {x: -99.02023, y: 63.132446}
+        - {x: -214.81754, y: 13.724243}
+        - {x: -262.5, y: -54.607727}
+        - {x: -262.5, y: -88.453064}
+        - {x: -234.39601, y: -112}
+        - {x: -161.20901, y: -112}
+        - {x: -14.764709, y: -76.83014}
+        - {x: 202.35156, y: -57.22223}
+        - {x: 262.5, y: -12.132446}
+        - {x: 262.5, y: 27.834717}
+        - {x: 223.82501, y: 59.091003}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 897
+        width: 151
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -14.5}
+        - {x: -2.5, y: -21.5}
+        - {x: -2.5, y: -25.5}
+        - {x: 7.5, y: -34.5}
+        - {x: 28.5, y: -34.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 19.5, y: -14.5}
+      - - {x: -35.5, y: 59.5}
+        - {x: -75.5, y: 52.5}
+        - {x: -75.5, y: 33.5}
+        - {x: -70.5, y: 32.5}
+        - {x: -28.5, y: 32.5}
+        - {x: -8.5, y: 49.5}
+        - {x: -8.5, y: 59.5}
+      - - {x: 22.5, y: 63.5}
+        - {x: 22.5, y: 57.5}
+        - {x: 28.5, y: 46.5}
+        - {x: 50.5, y: 43.5}
+        - {x: 67.5, y: 43.5}
+        - {x: 74.5, y: 55.5}
+        - {x: 74.5, y: 62.5}
+        - {x: 73.5, y: 63.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 896
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -18}
+        - {x: -61, y: -31}
+        - {x: -61, y: -55}
+        - {x: -56, y: -64}
+        - {x: 0, y: -64}
+        - {x: 24, y: -36}
+        - {x: 24, y: -19}
+        - {x: 20, y: -18}
+      - - {x: -24, y: 61}
+        - {x: -62, y: 61}
+        - {x: -77, y: 53}
+        - {x: -77, y: 30}
+        - {x: -73, y: 30}
+        - {x: -70, y: 31}
+        - {x: -25, y: 39}
+        - {x: -21, y: 42}
+        - {x: -21, y: 54}
+      - - {x: 29, y: 64}
+        - {x: 24, y: 63}
+        - {x: 24, y: 50}
+        - {x: 31, y: 48}
+        - {x: 63, y: 38}
+        - {x: 77, y: 38}
+        - {x: 77, y: 51}
+        - {x: 69, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -22, y: 14}
+        - {x: -22, y: -16}
+        - {x: 22, y: -16}
+        - {x: 22, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 968
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 8}
+        - {x: -17, y: 8}
+        - {x: -25, y: 5}
+        - {x: -25, y: -6}
+        - {x: -10, y: -8}
+        - {x: 19, y: -8}
+        - {x: 21, y: -7}
+        - {x: 25, y: -4}
+        - {x: 25, y: 5}
+      - - {x: -4.7700577, y: -0.7467041}
+        - {x: -4.7700577, y: 2.8270874}
+        - {x: 15.779381, y: 2.8270874}
+        - {x: 15.779381, y: -0.7467041}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 20
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 20, z: 9, w: 20}
+      outline:
+      - - {x: -6, y: 54.5}
+        - {x: -10, y: 46.5}
+        - {x: -10, y: -50.5}
+        - {x: -8, y: -54.5}
+        - {x: 8, y: -54.5}
+        - {x: 10, y: -53.5}
+        - {x: 10, y: 54.5}
+      - - {x: -2.5020947, y: -41.007385}
+        - {x: -2.5020947, y: 42.15448}
+        - {x: 1.2439356, y: 42.15448}
+        - {x: 1.2439356, y: -41.007385}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 936
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 7.5}
+        - {x: -14.5, y: -7.5}
+        - {x: 10.5, y: -7.5}
+        - {x: 14.5, y: -6.5}
+        - {x: 14.5, y: 4.5}
+        - {x: 10.5, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 300
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.371185, y: 61.395386}
+        - {x: 133.81082, y: 95.22864}
+        - {x: 123.15704, y: 119.00006}
+        - {x: 96.899826, y: 99.18652}
+        - {x: 81.78868, y: 135.4195}
+        - {x: 62.385834, y: 166.5}
+        - {x: 13.880432, y: 166.5}
+        - {x: -0.06845093, y: 144.11139}
+        - {x: -20.243149, y: 160.46967}
+        - {x: -46.904793, y: 154.32434}
+        - {x: -91.49285, y: 91.7417}
+        - {x: -135.70258, y: 94.25098}
+        - {x: -150, y: 27.032104}
+        - {x: -150, y: -0.85357666}
+        - {x: -123.533775, y: -29.466675}
+        - {x: -118.34824, y: -91.5285}
+        - {x: -83.53386, y: -149.36832}
+        - {x: -28.234138, y: -166.5}
+        - {x: 50.558, y: -166.5}
+        - {x: 103.704346, y: -132.5199}
+        - {x: 130.1452, y: -86.16589}
+        - {x: 125.677216, y: -8.455994}
+        - {x: 150, y: 11.314087}
+        - {x: 150, y: 54.698853}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 726
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 38.5}
+        - {x: -20, y: 23.5}
+        - {x: -20, y: -15.5}
+        - {x: -12, y: -38.5}
+        - {x: 20, y: -38.5}
+        - {x: 20, y: 32.5}
+        - {x: 8, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 768
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.290955, y: 24}
+        - {x: -46.5, y: 3.4660645}
+        - {x: -46.5, y: -2.4435425}
+        - {x: -23.409668, y: -24}
+        - {x: 25.107422, y: -24}
+        - {x: 46.5, y: -0.9803467}
+        - {x: 46.5, y: 3.6525269}
+        - {x: 26.036804, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 672
+        width: 362
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.87189, y: 106}
+        - {x: -167.46051, y: -47.10858}
+        - {x: -148.6914, y: -67.908325}
+        - {x: -181, y: -93.429565}
+        - {x: -181, y: -104.82269}
+        - {x: -149.99542, y: -106}
+        - {x: -101.440796, y: -73.815186}
+        - {x: 144.0149, y: -68.815186}
+        - {x: 181, y: -39.581238}
+        - {x: 181, y: 106}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 706
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 23}
+        - {x: -25.070648, y: 8.932251}
+        - {x: -31, y: -4.2993774}
+        - {x: -31, y: -23}
+        - {x: 9, y: -23}
+        - {x: 31, y: -11.723206}
+        - {x: 31, y: 8.909668}
+        - {x: 24.186462, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 720
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 19, z: 14, w: 14}
+      outline:
+      - - {x: -35, y: 17}
+        - {x: -35, y: -16}
+        - {x: -34, y: -17}
+        - {x: 35, y: -17}
+        - {x: 35, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 656
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 469
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.124695, y: 111}
+        - {x: -86.51886, y: 4.0200195}
+        - {x: -51.084686, y: -61.26709}
+        - {x: 70.197876, y: -82.72702}
+        - {x: 113, y: 26.127014}
+        - {x: 80.70587, y: 96.603516}
+        - {x: 17.850647, y: 111}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 609
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -11, y: 9}
+        - {x: -11, y: -12}
+        - {x: 5, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 8, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 560
+        width: 385
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173.33026, y: -11.202087}
+        - {x: -185.19586, y: 31.94336}
+        - {x: -192.5, y: 30.134033}
+        - {x: -185.95758, y: -13.4313965}
+        - {x: -182.5, y: -52}
+        - {x: -170.5, y: -52}
+        - {x: -145.12091, y: 32.70575}
+        - {x: -158.50317, y: 34.297363}
+      - - {x: -125.34473, y: 38.44403}
+        - {x: -140.38806, y: -44.866394}
+        - {x: -128.5, y: -44}
+        - {x: -115.189514, y: 39}
+      - - {x: -40.823547, y: -36}
+        - {x: -25.984863, y: 35.191772}
+        - {x: 4.0947266, y: 41.274292}
+        - {x: -0.3659668, y: 52}
+        - {x: -61.741516, y: 47.35736}
+        - {x: -84.93146, y: 38.104736}
+        - {x: -102.60785, y: 10.026123}
+        - {x: -102.98688, y: -26.83667}
+        - {x: -87.5, y: -36}
+        - {x: -61.55237, y: -33.323547}
+        - {x: -63.77124, y: -18.996887}
+        - {x: -86.3869, y: -19.242188}
+        - {x: -91.3645, y: 2.8408203}
+        - {x: -69.52295, y: 32.7511}
+        - {x: -41.73871, y: 32.852295}
+        - {x: -48.362854, y: -31.241882}
+      - - {x: 160.64478, y: 22.592957}
+        - {x: 136.82776, y: 52}
+        - {x: 129.77124, y: 50.405273}
+        - {x: 152.1156, y: 12.50415}
+        - {x: 123.22882, y: -23.83667}
+        - {x: 132.17334, y: -30.973877}
+        - {x: 192.39215, y: 44.329773}
+        - {x: 187.33667, y: 51.594788}
+      - - {x: 39.501343, y: 52}
+        - {x: 12.718872, y: 51.297424}
+        - {x: -6.5, y: 13}
+        - {x: -7.392151, y: -10.349731}
+        - {x: 10.5, y: -27}
+        - {x: 30.5, y: -26}
+        - {x: 51.5, y: 3.5685425}
+        - {x: 51.5, y: 36.13092}
+      - - {x: 78.5, y: 52}
+        - {x: 71.66644, y: 45.594788}
+        - {x: 54.12097, y: -25.89215}
+        - {x: 67.12213, y: -25.46344}
+        - {x: 75.02649, y: 3.2006226}
+        - {x: 109.81702, y: -19.786194}
+        - {x: 118.17639, y: -11.617798}
+        - {x: 96.05939, y: 9.323853}
+        - {x: 114.186646, y: 23.109558}
+        - {x: 114.90521, y: 43.862793}
+        - {x: 103.496826, y: 52}
+      - - {x: 4.05542, y: -5.345825}
+        - {x: 11.5, y: 23}
+        - {x: 26.5, y: 38}
+        - {x: 39.433105, y: 31.952942}
+        - {x: 37.5, y: 6}
+        - {x: 23.5, y: -12}
+      - - {x: 77.4657, y: 15.29364}
+        - {x: 82.52118, y: 39.678955}
+        - {x: 100.95892, y: 43.24756}
+        - {x: 97.39026, y: 22.133423}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 512
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -35, y: 11.5}
+        - {x: -36, y: 9.5}
+        - {x: -36, y: -22.5}
+        - {x: 31, y: -22.5}
+        - {x: 36, y: -21.5}
+        - {x: 36, y: 13.5}
+        - {x: 29, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 454
+        width: 382
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -159.27075, y: 38.553345}
+        - {x: -177.05334, y: 27.56128}
+        - {x: -179.11469, y: -30.230927}
+        - {x: -191, y: -43.1481}
+        - {x: -191, y: -52.5}
+        - {x: -175.00922, y: -52.5}
+        - {x: -157.4654, y: -46.39331}
+        - {x: -120.41205, y: -17.828033}
+        - {x: -113.083984, y: 15.477295}
+        - {x: -123.47333, y: 30.003967}
+      - - {x: -103.915955, y: 31.339966}
+        - {x: -111.41998, y: -1.1412964}
+        - {x: -117.221375, y: -45.80533}
+        - {x: -63.63336, y: -44.583984}
+        - {x: -59.298706, y: -20.14618}
+        - {x: -101.49884, y: -29.230682}
+        - {x: -98.11896, y: -5.280243}
+        - {x: -59.38434, y: 0.12033081}
+        - {x: -58.732788, y: 7.304138}
+        - {x: -95.06006, y: 7.86261}
+        - {x: -90.350525, y: 24.662598}
+        - {x: -55.551697, y: 32.88153}
+        - {x: -53.86267, y: 45.080017}
+      - - {x: -169.0227, y: -39.37741}
+        - {x: -155, y: 25.5}
+        - {x: -133.71735, y: 23.629395}
+        - {x: -126.41687, y: 6.7557983}
+        - {x: -139, y: -16.5}
+      - - {x: -41.534607, y: 22.064087}
+        - {x: -53.748047, y: -36.46936}
+        - {x: -42.221375, y: -37.858673}
+        - {x: -30.306702, y: -2.3650208}
+        - {x: 5.1453247, y: 3.698639}
+        - {x: 7.2598267, y: 12.024719}
+        - {x: -26.937134, y: 10.900269}
+        - {x: -19.47699, y: 30.14972}
+        - {x: 14.380005, y: 34.894226}
+        - {x: 16.748047, y: 46.416016}
+        - {x: -40.145264, y: 42.33197}
+      - - {x: 56.442688, y: 10.5}
+        - {x: 57.190674, y: 17.5}
+        - {x: 27.612488, y: 14.669983}
+        - {x: 35.583252, y: 35.508423}
+        - {x: 70.61066, y: 38.942688}
+        - {x: 70, y: 49.5}
+        - {x: 23.10669, y: 44.721313}
+        - {x: 10.915955, y: 10.5}
+        - {x: 8.389404, y: -33.924072}
+        - {x: 32.748047, y: -33.07074}
+        - {x: 57.41205, y: -19.39331}
+      - - {x: 97, y: 52.5}
+        - {x: 52.251953, y: -29.5}
+        - {x: 61.664, y: -32.332}
+        - {x: 79.2146, y: -8.110718}
+        - {x: 100.92285, y: -5.662384}
+        - {x: 95.93146, y: -30.991333}
+        - {x: 106.839966, y: -29.278656}
+        - {x: 117.22125, y: 0.2739563}
+        - {x: 116, y: 52.5}
+      - - {x: 146.93, y: 39.40973}
+        - {x: 126.885315, y: -26.583984}
+        - {x: 141.3133, y: -27.5}
+        - {x: 160.1612, y: 41.506775}
+        - {x: 191, y: 41.396484}
+        - {x: 191, y: 52.5}
+        - {x: 122.77869, y: 48.751953}
+        - {x: 121.083984, y: 36.813293}
+      - - {x: 83.53113, y: 1.6030884}
+        - {x: 104.293945, y: 39.769897}
+        - {x: 103.07257, y: 5.26709}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 977
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -488.5, y: 13.5}
+        - {x: -488.5, y: -62.5}
+        - {x: 488.5, y: -62.5}
+        - {x: 488.5, y: 62.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 468
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 20}
+        - {x: -37, y: 19}
+        - {x: -37, y: -15}
+        - {x: -33, y: -20}
+        - {x: 28, y: -20}
+        - {x: 37, y: -17}
+        - {x: 37, y: 8}
+        - {x: 29, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 328
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 176
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -34.5}
+        - {x: -24, y: -48.5}
+        - {x: 35, y: -48.5}
+        - {x: 35, y: -36.5}
+        - {x: 32, y: -28.5}
+        - {x: 28, y: -26.5}
+        - {x: 12, y: -26.5}
+        - {x: -16, y: -31.5}
+      - - {x: -36, y: 62.5}
+        - {x: -47, y: 62.5}
+        - {x: -47.897972, y: 53.18451}
+        - {x: -68.36339, y: 34.463654}
+        - {x: -69.40927, y: 16.910835}
+        - {x: -78.91115, y: 39.46614}
+        - {x: -88, y: 38.714355}
+        - {x: -88, y: 12.039589}
+        - {x: -58.906425, y: -6.5}
+        - {x: -40.53239, y: -5.9964066}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: 47.5}
+      - - {x: 78, y: 57.5}
+        - {x: 69, y: 53.5}
+        - {x: 52, y: 48.5}
+        - {x: 39, y: 40.5}
+        - {x: 51, y: 57.5}
+        - {x: 50, y: 63.5}
+        - {x: 33, y: 63.5}
+        - {x: 22, y: 46.5}
+        - {x: 22, y: 24.5}
+        - {x: 45, y: 3.5}
+        - {x: 56, y: -0.5}
+        - {x: 76, y: 2.5}
+        - {x: 88, y: 30.5}
+        - {x: 88, y: 49.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 675
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.29169, y: 80}
+        - {x: -337.5, y: 61.81555}
+        - {x: -337.5, y: 43.40515}
+        - {x: -257.7682, y: 7.416214}
+        - {x: -337.5, y: -62.436646}
+        - {x: -337.5, y: -80}
+        - {x: -285.4846, y: -71.60716}
+        - {x: 2.5197144, y: -47.20015}
+        - {x: 337.5, y: -61.11615}
+        - {x: 337.5, y: -46.927444}
+        - {x: 294.8365, y: 20.32486}
+        - {x: 337.5, y: 53.52249}
+        - {x: 337.5, y: 80}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 98
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 29.5}
+        - {x: -21.5, y: 29.5}
+        - {x: -31.5, y: 16.5}
+        - {x: -31.5, y: -20.5}
+        - {x: -18.5, y: -30.5}
+        - {x: 9.5, y: -30.5}
+        - {x: 16.5, y: -29.5}
+        - {x: 31.5, y: -13.5}
+        - {x: 31.5, y: 19.5}
+        - {x: 30.5, y: 23.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 434
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 14.5}
+        - {x: -18.5, y: -12.5}
+        - {x: -17.5, y: -14.5}
+        - {x: 15.5, y: -14.5}
+        - {x: 18.5, y: -10.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 4.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 984
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 10}
+        - {x: -9.5, y: 6}
+        - {x: -9.5, y: -6}
+        - {x: -5.5, y: -10}
+        - {x: 5.5, y: -10}
+        - {x: 9.5, y: -7}
+        - {x: 9.5, y: 4}
+        - {x: 6.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 987
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 11}
+        - {x: -11.5, y: 9}
+        - {x: -11.5, y: -9}
+        - {x: -10.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 11.5, y: -8}
+        - {x: 11.5, y: 10}
+        - {x: 9.5, y: 11}
+      - - {x: 2.5, y: -1}
+        - {x: 0.5, y: 0}
+        - {x: -1.5, y: -2}
+        - {x: -0.5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 987
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8.5}
+        - {x: -5, y: -7.5}
+        - {x: -4, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 936
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 7}
+        - {x: -26, y: 4}
+        - {x: -26, y: -7}
+        - {x: 26, y: -7}
+        - {x: 26, y: 3}
+        - {x: 21, y: 7}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 962
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 6}
+        - {x: -6.5, y: 5}
+        - {x: -6.5, y: -5}
+        - {x: -5.5, y: -6}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 5}
+        - {x: 5.5, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 975
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -487.5, y: 19.5}
+        - {x: -487.5, y: -19.5}
+        - {x: 487.5, y: -19.5}
+        - {x: 487.5, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 52
+        width: 203
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.741943, y: 98.21669}
+        - {x: -101.5, y: 31.325455}
+        - {x: -101.5, y: -42.734375}
+        - {x: -35.250427, y: -103.5}
+        - {x: 39.209106, y: -103.5}
+        - {x: 101.5, y: -42.20909}
+        - {x: 101.5, y: 34.676193}
+        - {x: 42.817017, y: 103.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 270
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.23523, y: 21.262054}
+        - {x: 26.77002, y: 19.532135}
+        - {x: -44.28882, y: 25.002686}
+        - {x: -52.5, y: -4.753998}
+        - {x: -44.28351, y: -8.764709}
+        - {x: 35.451843, y: -23.759369}
+        - {x: 41.272766, y: -21.272736}
+        - {x: 52.5, y: 19.267395}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 266
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.542786, y: 23.016052}
+        - {x: 21.428467, y: 14.603973}
+        - {x: 6.696045, y: 24.128845}
+        - {x: -30.013367, y: 25.005371}
+        - {x: -36.5, y: 1.1308899}
+        - {x: -36.5, y: -8.772736}
+        - {x: 12.7005005, y: -9.091003}
+        - {x: 12.812866, y: -22.27008}
+        - {x: 22.185547, y: -24.51175}
+        - {x: 36.5, y: 19.179047}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 22
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
